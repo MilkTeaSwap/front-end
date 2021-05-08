@@ -38,8 +38,8 @@
     "@ethersproject/abi": "^5.0.7",
     "@pancakeswap/uikit": "^0.29.4",
     "@reduxjs/toolkit": "^1.5.0",
-    "@types/react": "^17.0.2",
-    "@types/react-dom": "^17.0.1",
+    "@types/react": "^17.0.5",
+    "@types/react-dom": "^17.0.3",
     "@types/react-router-dom": "^5.1.5",
     "@types/styled-components": "^5.1.7",
     "@web3-react/core": "^6.1.9",
@@ -73,7 +73,7 @@
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@pancakeswap/eslint-config-pancake": "^1.0.1",
-    "@types/jest": "^26.0.19",
+    "@types/jest": "^26.0.23",
     "@types/react-redux": "^7.1.16",
     "@types/react-transition-group": "^4.4.1",
     "@typescript-eslint/eslint-plugin": "^4.22.1",
@@ -85,5 +85,8 @@
     "source-map-explorer": "^2.5.2",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
